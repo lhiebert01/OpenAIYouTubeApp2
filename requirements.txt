@@ -1,0 +1,7 @@
+openai>=1.0.0
+tiktoken
+google-api-python-client
+youtube-transcript-api
+python-dotenv
+streamlit
+python-docx
